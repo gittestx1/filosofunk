@@ -2336,7 +2336,7 @@
         "poesia": "Fale de Mim",
         "poeta": "Melody",
         "youtubeId": "OlQUAnIvqRU",
-        "startTime": "12"
+        "startTime": 12
      },
      {
          "estrofe": "pros perreco é tchau, pra inveja é tchau, já fooooi bye bye",
@@ -2351,5 +2351,12 @@
         "poeta": "Mc Dom Lipe",
         "youtubeId": "szzboy0dXUw",
         "startTime": 18
-     }
+     },
+     {
+        "estrofe": "Mais se os bota brota nois mete marcha na rota, Gonzaga deu fuga com uma loira cabulosa",
+        "poesia": "Gonzaga deu fuga com uma loira cabulosa",
+        "poeta": "Wesley Gonzaga",
+        "youtubeId": "SmfyBl2qNEQ",
+        "startTime": 35
+    }
 ]
